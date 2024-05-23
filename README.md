@@ -1,15 +1,16 @@
 # coffee-homepage.github.io
-
 <!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>上海と周辺都市の旅行ガイド</title>
-    <link rel="stylesheet" href="./css/style.css">
-</head>
-<body>
-    <header>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>上海と周辺都市の旅行ガイド</title>
+       <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <pre>
+            <script>
+            <header>
         <h1>上海と周辺都市の旅行ガイド</h1>
         <div class="nav">
             <div class="warp">
@@ -41,5 +42,8 @@
                 <h3>蘇州の観光地</h3>
                 <article>
                     <h4>拙政園</h4>
-                    <p>拙政園は中国の
-
+                    <p>拙政園は中国
+            </script>
+        </pre>
+    </body>
+</html>
